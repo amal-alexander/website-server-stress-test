@@ -59,7 +59,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 def main():
-    st.markdown('<h1 class="main-header">🚀 Professional Server Stress Test Tool</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🚀 AI Server Stress Test Tool by Amal ALexander</h1>', unsafe_allow_html=True)
     
     # Sidebar for navigation
     st.sidebar.title("Navigation")
